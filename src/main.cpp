@@ -14,8 +14,14 @@ int main()
                 window.close();
             }
         }
+        sf::CircleShape circle = sf::CircleShape(300.0f);
+        circle.setFillColor(sf::Color::Green);
+        circle.setPosition({650.f, 240.f});
+
+
 
         window.clear();
+        window.draw(circle);
         window.display();
     }
 }

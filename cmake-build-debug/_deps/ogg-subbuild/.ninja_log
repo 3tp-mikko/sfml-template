@@ -1,0 +1,21 @@
+# ninja log v6
+3	75	7647982865958661	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	836d2f2a5b127ac0
+3	75	7647982865958661	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	836d2f2a5b127ac0
+76	2389	7647982889092521	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	ee58512dc809eeee
+76	2389	7647982889092521	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	ee58512dc809eeee
+2389	2590	7647982889165086	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	db62dc94290471d1
+2389	2590	7647982889165086	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	db62dc94290471d1
+2596	2680	7647982891975842	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	1f29995e1422953d
+2596	2680	7647982891975842	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	1f29995e1422953d
+2680	2769	7647982892867446	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	7c7e879e21d0bd3f
+2680	2769	7647982892867446	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	7c7e879e21d0bd3f
+2769	2862	7647982893801512	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	1d2812052508c407
+2769	2862	7647982893801512	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	1d2812052508c407
+2862	2954	7647982894717525	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	ce33aab7c5a16195
+2862	2954	7647982894717525	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	ce33aab7c5a16195
+2954	3039	7647982895596673	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	859fc07902c71529
+2954	3039	7647982895596673	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	859fc07902c71529
+3039	3136	7647982896567824	CMakeFiles/ogg-populate-complete	595f64aa4f506c15
+3039	3136	7647982896567824	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	595f64aa4f506c15
+3039	3136	7647982896567824	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	595f64aa4f506c15
+3039	3136	7647982896567824	C:/Users/chizs/CLionProjects/sfml-template2/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	595f64aa4f506c15
